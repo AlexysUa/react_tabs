@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tabs.css"],"names":[],"mappings":"AAAA,SACE,WAAY,CACZ,qBACF,CAEA,KAEE,kBAAmB,CAAnB,iBACF","file":"main.dc5acb48.chunk.css","sourcesContent":[".content {\n  height: 75vh;\n  border: 1px solid black;\n}\n\n.tab {\n  border-bottom: none;\n  border-color: black;\n}\n"]}
